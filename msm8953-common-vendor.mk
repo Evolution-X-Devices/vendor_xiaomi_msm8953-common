@@ -195,6 +195,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.iwlan@1.0 \
     vendor.qti.hardware.data.latency@1.0 \
     vendor.qti.hardware.data.qmi@1.0 \
+    vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.qdutils_disp@1.0 \
     vendor.qti.hardware.tui_comm@1.0 \
     vendor.qti.ims.rcsconfig@1.0_vendor \
