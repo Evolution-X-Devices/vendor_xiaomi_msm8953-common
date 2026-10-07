@@ -186,6 +186,9 @@ PRODUCT_PACKAGES += \
     vendor.display.color@1.2 \
     vendor.display.postproc@1.0 \
     vendor.qti.data.factory@2.0 \
+    vendor.qti.data.factory@2.1 \
+    vendor.qti.data.factory@2.2 \
+    vendor.qti.data.factory@2.3 \
     vendor.qti.hardware.data.cne.internal.api@1.0 \
     vendor.qti.hardware.data.cne.internal.constants@1.0 \
     vendor.qti.hardware.data.cne.internal.server@1.0 \
@@ -196,12 +199,14 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.latency@1.0 \
     vendor.qti.hardware.data.qmi@1.0 \
     vendor.qti.hardware.dsp@1.0 \
+    vendor.qti.hardware.mwqemadapter@1.0 \
     vendor.qti.hardware.qdutils_disp@1.0 \
     vendor.qti.hardware.tui_comm@1.0 \
     vendor.qti.ims.rcsconfig@1.0_vendor \
     vendor.qti.ims.rcsconfig@2.0_vendor \
     vendor.qti.ims.rcsconfig@2.1_vendor \
     vendor.qti.latency@2.0 \
+    vendor.qti.latency@2.1 \
     libadm \
     libadpcmdec \
     libdrc \
